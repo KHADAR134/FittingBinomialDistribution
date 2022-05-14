@@ -69,7 +69,8 @@ else:
 
 # Output: 
 
-![Annotation 2022-05-04 101559](https://user-images.githubusercontent.com/75235233/166628515-c61cf20f-f8c6-4eab-a2da-48f9133b186e.png)
+![Screenshot 2022-05-14 202709](https://user-images.githubusercontent.com/75235233/168431781-f22d253b-f4b4-45b3-b6a2-b5cdca638c3f.png)
+
 # Result:
 Thus, fitting binomial distribution for the given frequencey distribution is verified.
 
