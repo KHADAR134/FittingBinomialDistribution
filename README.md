@@ -1,3 +1,4 @@
+# EXP NO-1
 # Fitting Binomial Distribution
 
 # Aim : 
